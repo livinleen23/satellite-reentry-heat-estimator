@@ -1,4 +1,4 @@
-#SATELLITE RE-ENTRY HEAT ESTIMATOR
+### SATELLITE RE-ENTRY HEAT ESTIMATOR
 
 #Project Overview
 The satellite re-entry heat estimator is a python based programme that estimates the heat experienced by the satellite during the atmospheric re-entry 
